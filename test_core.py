@@ -1,4 +1,4 @@
-from nlp_logic.core import *
+from nlp_logic.core import get_phrases
 
 
 def test_get_phrases():
